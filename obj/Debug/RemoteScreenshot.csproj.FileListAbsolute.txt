@@ -1,0 +1,15 @@
+C:\Users\Igor\source\repos\RemoteScreenshot\RemoteScreenshot\bin\Debug\RemoteScreenshot.exe.config
+C:\Users\Igor\source\repos\RemoteScreenshot\RemoteScreenshot\bin\Debug\RemoteScreenshot.exe
+C:\Users\Igor\source\repos\RemoteScreenshot\RemoteScreenshot\bin\Debug\RemoteScreenshot.pdb
+C:\Users\Igor\source\repos\RemoteScreenshot\RemoteScreenshot\obj\Debug\RemoteScreenshot.csproj.AssemblyReference.cache
+C:\Users\Igor\source\repos\RemoteScreenshot\RemoteScreenshot\obj\Debug\MainWindow.g.cs
+C:\Users\Igor\source\repos\RemoteScreenshot\RemoteScreenshot\obj\Debug\App.g.cs
+C:\Users\Igor\source\repos\RemoteScreenshot\RemoteScreenshot\obj\Debug\RemoteScreenshot_MarkupCompile.cache
+C:\Users\Igor\source\repos\RemoteScreenshot\RemoteScreenshot\obj\Debug\RemoteScreenshot_MarkupCompile.lref
+C:\Users\Igor\source\repos\RemoteScreenshot\RemoteScreenshot\obj\Debug\MainWindow.baml
+C:\Users\Igor\source\repos\RemoteScreenshot\RemoteScreenshot\obj\Debug\RemoteScreenshot.g.resources
+C:\Users\Igor\source\repos\RemoteScreenshot\RemoteScreenshot\obj\Debug\RemoteScreenshot.Properties.Resources.resources
+C:\Users\Igor\source\repos\RemoteScreenshot\RemoteScreenshot\obj\Debug\RemoteScreenshot.csproj.GenerateResource.cache
+C:\Users\Igor\source\repos\RemoteScreenshot\RemoteScreenshot\obj\Debug\RemoteScreenshot.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\RemoteScreenshot\RemoteScreenshot\obj\Debug\RemoteScreenshot.exe
+C:\Users\Igor\source\repos\RemoteScreenshot\RemoteScreenshot\obj\Debug\RemoteScreenshot.pdb
